@@ -10,7 +10,7 @@ module.exports =
 	version: "master"
 }, {
 	name: "document-updater",
-	repo: "https://github.com/sharelatex/document-updater-sharelatex.git",
+	repo: "https://github.com/jmexia23/document-updater.git",
 	version: "master"
 }, {
 	name: "clsi",
